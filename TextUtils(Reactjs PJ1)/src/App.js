@@ -2,7 +2,7 @@ import './App.css';
 import Navbar from './components/Navbar';
 import TextForm from './components/TextForm';
 import About from './components/About';
-import React, { useState } from 'react';
+import React, { useState } from 'reac//t';
 import Alert from './components/Alert';
 import {
   BrowserRouter as Router,
